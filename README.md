@@ -5,4 +5,4 @@ This container uses an official DCMTK's [mirrow](https://github.com/DCMTK/dcmtk)
 
 ## Usage ##
 
-docker run -v <host directory>:<container directory> darthunix/alpine-dcmtk <dcmtk tool> <arguments>
+docker run -v <host directory>:<container directory> darthunix/dcmtk <dcmtk tool> <arguments>
